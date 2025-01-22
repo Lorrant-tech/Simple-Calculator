@@ -1,8 +1,5 @@
-# React + Vite
+# Simple Calculator 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A calculator created using React. The project was created as a way to study useReducer hook and to practice React development in general.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![GIF: using calculator](simple-calculator.gif)
